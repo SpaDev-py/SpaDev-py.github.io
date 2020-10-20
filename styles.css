@@ -3,7 +3,6 @@ body {
 }
 
 h1 {
-    color: springgreen;
     text-align: center;
-    text-decoration: 2px solid black;
+    font-size: 30em;
 }
